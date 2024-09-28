@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GWP_Health/static/css/main.7c2bac94.css",
+    "main.js": "/GWP_Health/static/js/main.b0c350a7.js",
+    "static/js/453.b0e8999a.chunk.js": "/GWP_Health/static/js/453.b0e8999a.chunk.js",
+    "static/media/profile-2.png": "/GWP_Health/static/media/profile-2.4752a9db34458eeffcfa.png",
+    "static/media/doctor-picture.png": "/GWP_Health/static/media/doctor-picture.0261bb4efe7a9075c56a.png",
+    "static/media/profile-1.png": "/GWP_Health/static/media/profile-1.0261bb4efe7a9075c56a.png",
+    "static/media/doctor-group.png": "/GWP_Health/static/media/doctor-group.01394386d8270bd40bc1.png",
+    "static/media/profile-3.png": "/GWP_Health/static/media/profile-3.530bb2fd7ece3dd3b3be.png",
+    "static/media/doctor-book-appointment.png": "/GWP_Health/static/media/doctor-book-appointment.edb3f4ac282ff3fefaec.png",
+    "static/media/profile-4.png": "/GWP_Health/static/media/profile-4.3c44185ab9c84614038f.png",
+    "index.html": "/GWP_Health/index.html",
+    "main.7c2bac94.css.map": "/GWP_Health/static/css/main.7c2bac94.css.map",
+    "main.b0c350a7.js.map": "/GWP_Health/static/js/main.b0c350a7.js.map",
+    "453.b0e8999a.chunk.js.map": "/GWP_Health/static/js/453.b0e8999a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c2bac94.css",
+    "static/js/main.b0c350a7.js"
+  ]
+}
